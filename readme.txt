@@ -1,10 +1,5 @@
 NLP Exercise 2: Aspect-Based Sentiment Analysis.
 
-Elias Selman
-Ignacio Moreno Vergara
-Parth Mittal
-Sarthak Raisurana.
-
 Our Final approach for this aspect-based sentiment analysis exercise consisted
 of using state of the art transformers model as an encoder model for feature
 representation and a deep neural network classifier for sentiment analysis
